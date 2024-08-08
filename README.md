@@ -10,12 +10,17 @@
           
 - 👯 I’m looking to collaborate on
   
-  <img width="50px" height="50px" align="left"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
   <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+  <img width="50px" height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+          
+          
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me:
-  <i class="devicon-github-original"></i>
+  I'am on
+    - [Github](https://github.com/Xafizmac)
+    - [LinkedIn](https://www.linkedin.com/in/hafiz-fullstack-335003271/)
+    - [Instagram](https://www.instagram.com/hafizbey_official/)
           
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
